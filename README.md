@@ -10,6 +10,8 @@
 </h1>
 A collection of awesome tools used by Web hackers. Happy hacking , Happy bug-hunting
 
+中文版本参考🔰雨苁ℒ🔰blog https://www.ddosi.org/web-hackers-weapons/
+
 ## Family project
 [![WebHackersWeapons](https://img.shields.io/github/stars/hahwul/WebHackersWeapons?label=WebHackersWeapons)](https://github.com/hahwul/WebHackersWeapons)
 [![MobileHackersWeapons](https://img.shields.io/github/stars/hahwul/MobileHackersWeapons?label=MobileHackersWeapons)](https://github.com/hahwul/MobileHackersWeapons)
